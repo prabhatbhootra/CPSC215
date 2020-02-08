@@ -1,0 +1,42 @@
+pbhootra@netlab10:/home3/pbhootra/Desktop/cpsc215/lab9$ java Tester
+The first example.
+Elements in preorder: []
+Inserting * as the root.
+Elements in preorder: [*]
+Inserting 2 as the left child of *.
+Elements in preorder: [*, 2]
+Inserting + as the right child of *.
+Elements in preorder: [*, 2, +]
+Inserting 6 as the left child of +.
+Elements in preorder: [*, 2, +, 6]
+Inserting 5 as the right child of +.
+Elements in preorder: [*, 2, +, 6, 5]
+
+The second example.
+Inserting in preorder: - / * + 3 1 3 + - 9 5 2 + * 3 - 7 4 6
+Elements in preorder: [-, /, *, +, 3, 1, 3, +, -, 9, 5, 2, +, *, 3, -, 7, 4, 6]
+Elements in postorder: [3, 1, +, 3, *, 9, 5, -, 2, +, /, 3, 7, 4, -, *, 6, +, -]
+pbhootra@netlab10:/home3/pbhootra/Desktop/cpsc215/lab9$ 
+
+
+pbhootra@netlab10:/home3/pbhootra/Desktop/cpsc215/lab9$ java Tester
+The first example.
+Elements in preorder: []
+Inserting * as the root.
+Elements in preorder: [*]
+Inserting 2 as the left child of *.
+Elements in preorder: [*, 2]
+Inserting + as the right child of *.
+Elements in preorder: [*, 2, +]
+Inserting 6 as the left child of +.
+Elements in preorder: [*, 2, +, 6]
+Inserting 5 as the right child of +.
+Elements in preorder: [*, 2, +, 6, 5]
+
+The second example.
+Inserting in preorder: - / * + 3 1 3 + - 9 5 2 + * 3 - 7 4 6
+Elements in preorder: [-, /, *, +, 3, 1, 3, +, -, 9, 5, 2, +, *, 3, -, 7, 4, 6]
+Elements in postorder: [3, 1, +, 3, *, 9, 5, -, 2, +, /, 3, 7, 4, -, *, 6, +, -]
+First Expression Tree: -13
+Second Expression Tree: 8456
+pbhootra@netlab10:/home3/pbhootra/Desktop/cpsc215/lab9$ 

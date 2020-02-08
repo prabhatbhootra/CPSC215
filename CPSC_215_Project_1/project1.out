@@ -1,0 +1,34 @@
+pbhootra@netlab06:/home3/pbhootra/Desktop/cpsc215/Project_1$ javac *.java
+Note: ArraySequence.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+pbhootra@netlab06:/home3/pbhootra/Desktop/cpsc215/Project_1$ java Bhootra
+Narnia...where the woods are thick and cool, where Talking Beasts are called to
+life, the land beyond the wardrobe, the secret country known only to Peter,
+Susan, Edmund, and Lucy. Narnia...where horses talk and hermits like company,
+where evil men turn into donkeys, where boys go into battle. 
+Narnia...the land between the lamp-post and the castle of Cair Paravel,
+where animals talk, where magical things happen,the world of wicked dragons 
+and magic spells, where the very best is brought out of even the worst people,
+where anything can happen(and most oftan does). 
+Narnia...where owls are wise, where some of the giants like to
+snack on humans (and, if carefully cooked, on Marsh-wiggles, too), 
+where a prince is put under an evil spell. 
+Narnia...where dwarfs are loyal and tough and strong-or are they?
+
+Narnia...where the woods are thick and cool, where Talking Beasts are called to
+life, the land beyond the wardrobe, the secret country known only to Peter,
+Susan, Edmund, and Lucy. Narnia...where horses talk and hermits like company,
+where evil men turn into donkeys, where boys go into battle. 
+
+where animals talk, where magical things happen, the world of wicked deans
+and magic spells, where the very best is brought out of even the worst people,
+where anything can happen(and most oftan does). 
+Narnia... where professors are wise, where some of the giants like to
+snack on students (and, if carefully cooked, on Marsh-wiggles, too),
+where a prince is put under an evil spell. 
+Narnia...where dwarfs are loyal and tough and strong-or are they?
+Exception in thread "main" java.lang.NullPointerException
+	at MyTextEditor.print(MyTextEditor.java:93)
+	at Bhootra.main(Bhootra.java:19)
+pbhootra@netlab06:/home3/pbhootra/Desktop/cpsc215/Project_1$ 
+
